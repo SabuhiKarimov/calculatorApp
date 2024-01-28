@@ -1,1 +1,2 @@
-variables double
+variables type - double
+variables count - 2
