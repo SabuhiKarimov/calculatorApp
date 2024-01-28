@@ -1,1 +1,1 @@
-in calculators have + , - , * , / operations
+in calculators have addition , substraction , multiplication and division methods
