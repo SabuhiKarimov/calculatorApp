@@ -1,0 +1,1 @@
+in calculators have + , - , * , / operations
